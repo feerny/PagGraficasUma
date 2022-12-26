@@ -65,7 +65,11 @@ footer{
         background-color: black;
         color: white;
         }
-
- 
+        .graf{
+            width:100%;
+            height:600px;
+        }
+        
+        
  
   }
