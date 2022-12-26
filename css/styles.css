@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+body{
+    margin: 0;
+    font-family: 'Anton', sans-serif;
+
+}
+
+.nav{
+display: flex;
+align-items: center;
+padding: 10px;
+background-color: black;
+color: white;
+}
+
+.nav img{   
+    height: 45px;
+    padding-left: 50px;
+}
+
+.nav p{
+    font-size: 22px;
+    padding-left: 350px;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    height: 50px;
+    margin-top: -51.4px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    padding-left: 45%;
+}
+
+
+.Cuerpo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
